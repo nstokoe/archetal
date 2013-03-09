@@ -1,0 +1,66 @@
+img { behavior: url(iepngfix.htc); }
+
+body{
+	padding:0px; 
+	margin:0px;
+}
+
+.main {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: lighter;
+	color: #FFFFFF;
+	padding:0px; 
+	margin:0px;
+}
+.red {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: lighter;
+	color: #990000;
+	padding:0px; 
+	margin:0px;
+}
+.company {
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: lighter;
+	color: #FFFFFF;
+	padding:0px; 
+	margin:0px;
+}
+a:link, a:active, a:visited {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: lighter;
+	color: #FFFFFF;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: inherit;
+}
+
+a:hover {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: lighter;
+	color: #CC0000;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: inherit;
+}
+
+.greyed_out {
+	opacity:0.2;
+	filter:alpha(opacity=20);
+}
+
